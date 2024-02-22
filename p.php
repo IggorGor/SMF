@@ -1,3 +1,3 @@
 <?php
 
-var_dump(checkdnsrr('yandex.ru'));
+var_dump(checkdnsrr('four.sudeu.com'));
