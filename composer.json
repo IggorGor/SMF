@@ -15,5 +15,8 @@
         "platform": {
             "php": "7.0.2"
         }
-    }
+    },
+  "require": {
+    "ext-mysqli": "*"
+  }
 }

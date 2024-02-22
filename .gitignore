@@ -75,3 +75,4 @@ upgrade-helper.php
 .vscode/
 
 vendor/
+/repair_settings.php
